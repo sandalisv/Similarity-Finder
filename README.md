@@ -40,7 +40,7 @@ Similar words finder with frontend prototype in react
 # Future enhancements in Front end
 ## Better User friendly UI with styles
 ## Output should be shown in a better way (for now it's only a alert)
-## Betetr exception handling and testing
+## Better exception handling and testing
 
 # Time spent for UI - less than 2 hours.
 
